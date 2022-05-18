@@ -236,6 +236,7 @@ p {
     }
   } 
 
+
   @media only screen and (max-width: 280px) {
     .content {
       
@@ -280,3 +281,141 @@ p {
       color: #ecf0f1;
     }
   } 
+
+  @media only screen and (max-width: 555px) {
+    .content {
+      
+      top: 88%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 414px) {
+    .content {
+      
+      top: 68%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 390px) {
+    .content {
+      
+      top: 78%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 393px) {
+    .content {
+      
+      top: 78%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 412px) {
+    .content {
+      
+      top: 68%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 280px) {
+    .content {
+      
+      top: 98%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 1024px) {
+    .content {
+      
+      top: 78%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 1280px) {
+    .content {
+      
+      top: 68%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      
+      overflow: hidden;
+      font-family: 'Josefin Sans', sans-serif;
+      font-size: 35px;
+      line-height: 40px;
+      color: #ecf0f1;
+    }
+  } 
+
+  @media only screen and (width: 412px)
+{ 
+  .content {
+      
+    top: 68%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    overflow: hidden;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+    line-height: 40px;
+    color: #ecf0f1;
+  }
+}
+
+  

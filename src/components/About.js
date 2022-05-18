@@ -19,7 +19,7 @@ function About() {
       <FaGithub className="react"/><SiMaterialui className="react"/><SiFirebase className="react"/>
       </div>
       <div className="button-container">
-      <button className="button">My Resume</button>
+      <button className="button" onClick={()=>{window.open('https://drive.google.com/file/d/1aEB4W61JsaO9pwq___VEVIZCchrtUxsh/view?usp=sharing')}} >My Resume</button>
       </div>
       </div>
     </div>
